@@ -1,0 +1,15 @@
+C:\Users\ETG1\source\repos\ConsoleApp2Mathhh\ConsoleApp2Mathhh\bin\Debug\net6.0\ConsoleApp2Mathhh.exe
+C:\Users\ETG1\source\repos\ConsoleApp2Mathhh\ConsoleApp2Mathhh\bin\Debug\net6.0\ConsoleApp2Mathhh.deps.json
+C:\Users\ETG1\source\repos\ConsoleApp2Mathhh\ConsoleApp2Mathhh\bin\Debug\net6.0\ConsoleApp2Mathhh.runtimeconfig.json
+C:\Users\ETG1\source\repos\ConsoleApp2Mathhh\ConsoleApp2Mathhh\bin\Debug\net6.0\ConsoleApp2Mathhh.dll
+C:\Users\ETG1\source\repos\ConsoleApp2Mathhh\ConsoleApp2Mathhh\bin\Debug\net6.0\ConsoleApp2Mathhh.pdb
+C:\Users\ETG1\source\repos\ConsoleApp2Mathhh\ConsoleApp2Mathhh\obj\Debug\net6.0\ConsoleApp2Mathhh.csproj.AssemblyReference.cache
+C:\Users\ETG1\source\repos\ConsoleApp2Mathhh\ConsoleApp2Mathhh\obj\Debug\net6.0\ConsoleApp2Mathhh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETG1\source\repos\ConsoleApp2Mathhh\ConsoleApp2Mathhh\obj\Debug\net6.0\ConsoleApp2Mathhh.AssemblyInfoInputs.cache
+C:\Users\ETG1\source\repos\ConsoleApp2Mathhh\ConsoleApp2Mathhh\obj\Debug\net6.0\ConsoleApp2Mathhh.AssemblyInfo.cs
+C:\Users\ETG1\source\repos\ConsoleApp2Mathhh\ConsoleApp2Mathhh\obj\Debug\net6.0\ConsoleApp2Mathhh.csproj.CoreCompileInputs.cache
+C:\Users\ETG1\source\repos\ConsoleApp2Mathhh\ConsoleApp2Mathhh\obj\Debug\net6.0\ConsoleApp2Mathhh.dll
+C:\Users\ETG1\source\repos\ConsoleApp2Mathhh\ConsoleApp2Mathhh\obj\Debug\net6.0\refint\ConsoleApp2Mathhh.dll
+C:\Users\ETG1\source\repos\ConsoleApp2Mathhh\ConsoleApp2Mathhh\obj\Debug\net6.0\ConsoleApp2Mathhh.pdb
+C:\Users\ETG1\source\repos\ConsoleApp2Mathhh\ConsoleApp2Mathhh\obj\Debug\net6.0\ConsoleApp2Mathhh.genruntimeconfig.cache
+C:\Users\ETG1\source\repos\ConsoleApp2Mathhh\ConsoleApp2Mathhh\obj\Debug\net6.0\ref\ConsoleApp2Mathhh.dll
